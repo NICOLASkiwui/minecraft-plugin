@@ -1,5 +1,4 @@
 # Claim-plugin
-## Deprecated
 
 #### *Using [ScriptCraft](https://github.com/walterhiggins/ScriptCraft)*
 
